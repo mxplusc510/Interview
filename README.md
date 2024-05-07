@@ -1,0 +1,6 @@
+Hello, Interviewers..
+
+Sorry that i havent learn node.js before, so im not able to done Task 1 and 2..
+But i will learn it in the future...
+
+Apologize for the inconvenience...
